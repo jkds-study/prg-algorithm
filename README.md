@@ -21,6 +21,6 @@
 |날짜|@yewon-Noh|@sojung32|
 |:-:|:-:|:-:|
 |03/21|[예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)|[이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)|
-|03/22|[영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)||
+|03/22|[영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)|[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)|
 |03/23|||
 |03/24|||
