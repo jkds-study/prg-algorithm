@@ -18,9 +18,9 @@
 
 하루에 한문제씩 풀기
 
-|날짜|@yewon-Noh|@sojung32|
-|:-:|:-:|:-:|
-|03/21|[예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)|[이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)|
-|03/22|[영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)|[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)|
-|03/23||[기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798)|
-|03/24|||
+|@yewon-Noh|@sojung32|
+|:-:|:-:|
+|[예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)|[이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)|
+|[영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)|[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)|
+|[서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)|[기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798)|
+||
